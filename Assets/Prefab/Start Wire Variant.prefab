@@ -215,6 +215,10 @@ PrefabInstance:
       propertyPath: line
       value: 
       objectReference: {fileID: 2892712641686766259}
+    - target: {fileID: 5892225995188167719, guid: 03f436380d854524387327ed857ac6e5, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6749291552035907148, guid: 03f436380d854524387327ed857ac6e5, type: 3}
       propertyPath: m_Name
       value: Start Wire Variant
