@@ -50,3 +50,6 @@ TagManager:
   - name: Circuits
     uniqueID: 1707208057
     locked: 0
+  - name: Wires
+    uniqueID: 902198881
+    locked: 0
